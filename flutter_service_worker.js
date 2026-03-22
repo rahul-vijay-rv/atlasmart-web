@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e7a67023d6c792c411543e170c6bd300",
+const RESOURCES = {"flutter_bootstrap.js": "46b7b79a7ae1217162ea25461aa24c6b",
 "version.json": "2cedd8b0ccd8805f85c3459ad4e93733",
 "index.html": "5b58d253f8ee3fc5e9a067d161016082",
 "/": "5b58d253f8ee3fc5e9a067d161016082",
-"main.dart.js": "0cd431630beb1bb4cbb3ec15cd64605e",
+"main.dart.js": "084ad0a9e2dd480e0d6474fed3593752",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
 "favicon.png": "71eb22141670d91e4df70a3a613d2866",
 "icons/Icon-192.png": "7b3c486983d7cd37a4a4d3a86370ab8f",
@@ -21,7 +21,7 @@ const RESOURCES = {"flutter_bootstrap.js": "e7a67023d6c792c411543e170c6bd300",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "9ffbb07ed7040df28b0a537045225d1a",
-"assets/fonts/MaterialIcons-Regular.otf": "1d2e3d1ac484e516f8ab27704b37affa",
+"assets/fonts/MaterialIcons-Regular.otf": "06d7d37fb1a24d9e1ab4af9a462086e6",
 "assets/assets/fashion_banner.png": "e466b52d534dd0a6ba90603a111faa1f",
 "assets/assets/account_not%2520veridied.jpg": "4261fb0b900e74117a41b7d99e488d22",
 "assets/assets/grocery_banner.png": "e1474924ba6385edfdef9dff2407f145",
